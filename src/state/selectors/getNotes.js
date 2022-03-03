@@ -1,0 +1,1 @@
+export const getNotes = (state) => state.app.notes

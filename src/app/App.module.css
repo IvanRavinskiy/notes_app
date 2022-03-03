@@ -1,0 +1,8 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid #d2cece;
+    max-width: 500px;
+}
